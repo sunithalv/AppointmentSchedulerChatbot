@@ -14,5 +14,5 @@ The google calendar is updated with the meeting and an email is sent with the me
 The working of the chatbot is as shown below.
 
 ![Screenshot_Scheduler](https://github.com/user-attachments/assets/27f2382a-2965-4965-8720-77b990484c20)
-![Screenshot_20241120_101725_Calendar](https://github.com/user-attachments/assets/9dd61abb-409d-4328-be31-d4c04b52aa14)
 ![Screenshot_email](https://github.com/user-attachments/assets/7c9bc1cd-5607-4b96-8044-9e87b118cc19)
+![Screenshot_20241120_101725_Calendar](https://github.com/user-attachments/assets/7b30e75c-10c2-4f8d-906b-682de41ee3fc)
